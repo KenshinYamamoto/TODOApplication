@@ -1,1 +1,2 @@
 # TODOApplication
+JavaScriptのみを用いてTODOアプリを作成した。次に、Reactを用いて同じTODOアプリを作成する。そして、違いについて理解する。
